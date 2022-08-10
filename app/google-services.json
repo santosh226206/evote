@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072047252179",
+    "project_id": "voteonline-39736",
+    "storage_bucket": "voteonline-39736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072047252179:android:0fc8a4b07c1c59d9d0ea26",
+        "android_client_info": {
+          "package_name": "com.example.evote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072047252179-1eql644ikblv5hjuo9v0d6f29v2nfu9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UHbuhs9I3GyYr8J4bKd9ofZGUTtZMK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072047252179-1eql644ikblv5hjuo9v0d6f29v2nfu9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
